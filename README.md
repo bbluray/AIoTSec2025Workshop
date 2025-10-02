@@ -51,7 +51,7 @@
 
   <h3>Submission Instructions</h3>
   <p>
-    Submissions should follow the IEEE Conference Proceedings Format (8.5" x 11", Two-Column), not exceeding 4 pages (+2 pages with overlength charges). Papers should be submitted via the workshop submission system (e.g., EDAS). Accepted papers will be included in the IEEE Conference Proceedings and submitted to IEEE Xplore and CSDL.
+    Submissions should follow the IEEE Conference Proceedings Format (8.5" x 11", Two-Column), not exceeding 6 pages (+1 pages with overlength charges). Papers should be submitted via the workshop submission system (e.g., EDAS). Accepted papers will be included in the IEEE Conference Proceedings and submitted to IEEE Xplore and CSDL.
   </p>
 
   <p>
