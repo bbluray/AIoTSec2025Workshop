@@ -43,8 +43,8 @@
   <div class="date-box">
     <h3>Important Dates</h3>
     <ul>
-      <li><strong>Submission Deadline:</strong> September 10th, 2025</li>
-      <li><strong>Notification of Acceptance:</strong> October 15th, 2025</li>
+      <li><strong>Submission Deadline:</strong> October 10th, 2025</li>
+      <li><strong>Notification of Acceptance:</strong> October 25th, 2025</li>
       <li><strong>Final Manuscript Due:</strong> November 3rd, 2025</li>
     </ul>
   </div>
